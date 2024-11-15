@@ -1,1 +1,2 @@
-Mridul:Wifi,50.0,Internet
+Mridul:food,100.0,food
+rahim:
